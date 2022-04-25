@@ -1,0 +1,91 @@
+{
+  "name": "lougaou-vsc-pack",
+  "displayName": "Lougaou Visual Studio Code Pack",
+  "description": "Personnal Extensions for Developers",
+  "version": "0.0.1",
+  "author": "Xavier R.",
+  "icon": "logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lougaou/visual-studio-code-pack"
+  },
+  "publisher": "Xavier R.",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "categories": [
+    "Extension Packs",
+    "Snippets"
+  ],
+  "extensionPack": [
+    "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "GitHub.copilot",
+    "Gruntfuggly.todo-tree",
+    "JoeBerria.statusbarerror",
+    "MS-CEINTL.vscode-language-pack-fr",
+    "MehediDracula.php-namespace-resolver",
+    "MykhailoKushnir.vscode-php-getter-setter",
+    "PKief.material-icon-theme",
+    "RK.bookmarksng",
+    "SonarSource.sonarlint-vscode",
+    "Tyriar.lorem-ipsum",
+    "Tyriar.sort-lines",
+    "Zignd.html-css-class-completion",
+    "aaron-bond.better-comments",
+    "abusaidm.html-snippets",
+    "alefragnani.numbered-bookmarks",
+    "bmewburn.vscode-intelephense-client",
+    "bungcip.better-toml",
+    "christian-kohler.path-intellisense",
+    "donjayamanne.githistory",
+    "dracula-theme.theme-dracula",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "ecodes.vscode-phpmd",
+    "emallin.phpunit",
+    "emilast.LogFileHighlighter",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "getpsalm.psalm-vscode-plugin",
+    "helgardrichard.helium-icon-theme",
+    "jmredfern.sort-selection",
+    "johnpapa.vscode-peacock",
+    "junstyle.php-cs-fixer",
+    "kamikillerto.vscode-colorize",
+    "mblode.twig-language",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "mkaufman.HTMLHint",
+    "mrmlnc.vscode-scss",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "mutantdino.resourcemonitor",
+    "neilbrayfield.php-docblocker",
+    "quicktype.quicktype",
+    "redhat.vscode-yaml",
+    "richie5um2.vscode-sort-json",
+    "shd101wyy.markdown-preview-enhanced",
+    "swordev.phpstan",
+    "teledemic.branch-warnings",
+    "fabianlauer.vs-code-xml-format",
+    "xdebug.php-debug",
+    "yzhang.markdown-all-in-one",
+    "zobo.php-intellisense"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./src/snippets/html.json"
+      },
+      {
+        "language": "php",
+        "path": "./src/snippets/php-symfony.json"
+      }
+    ]
+  }
+}
