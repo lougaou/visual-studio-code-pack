@@ -9,6 +9,7 @@ Personnal selection of Extensions for Developers
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [Easy PHP Error Logger](https://marketplace.visualstudio.com/items?itemName=dhide.easy-php-error-logger)
 - [PHP 8 Getter & Setter](https://marketplace.visualstudio.com/items?itemName=MykhailoKushnir.vscode-php-getter-setter)
 - [PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
@@ -17,6 +18,7 @@ Personnal selection of Extensions for Developers
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [PHP Mess Detector](https://marketplace.visualstudio.com/items?itemName=ecodes.vscode-phpmd)
 - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
+- [PHP Refactor](https://marketplace.visualstudio.com/items?itemName=tintrinh.php-refactor)
 - [PHP Stan](https://marketplace.visualstudio.com/items?itemName=swordev.phpstan)
 - [PHP Unit](https://marketplace.visualstudio.com/items?itemName=emallin.phpunit)
 - [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
@@ -99,5 +101,5 @@ Personnal selection of Extensions for Developers
 - [Resource Monitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-
+<!-- markdownlint-disable MD036 -->
 _vsce package_
