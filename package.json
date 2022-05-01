@@ -2,7 +2,7 @@
   "name": "lougaou-vsc-pack",
   "displayName": "Lougaou Visual Studio Code Pack",
   "description": "Personnal Extensions for Developers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Xavier R.",
   "icon": "logo.jpg",
   "repository": {
