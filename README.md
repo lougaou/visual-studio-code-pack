@@ -21,8 +21,14 @@ Personnal selection of Extensions for Developers
 - [PHP Refactor](https://marketplace.visualstudio.com/items?itemName=tintrinh.php-refactor)
 - [PHP Stan](https://marketplace.visualstudio.com/items?itemName=swordev.phpstan)
 - [PHP Unit](https://marketplace.visualstudio.com/items?itemName=emallin.phpunit)
+- [PHPUnit Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.phpunit-snippets)
+- [Symfony code snippets And Twig Support & Yaml](https://marketplace.visualstudio.com/items?itemName=nadim-vscode.symfony-code-snippets)
 - [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+### Makefile
+
+- [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
 
 ### Code Quality
 
