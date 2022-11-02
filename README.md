@@ -51,6 +51,7 @@ Personnal selection of Extensions for Developers
 - [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ### Sort
 

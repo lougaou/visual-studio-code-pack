@@ -66,6 +66,7 @@
     "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-wsl",
     "mutantdino.resourcemonitor",
+    "bradlc.vscode-tailwindcss",
     "nadim-vscode.symfony-code-snippets",
     "neilbrayfield.php-docblocker",
     "onecentlin.phpunit-snippets",
