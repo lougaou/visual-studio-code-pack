@@ -26,6 +26,12 @@ Personnal selection of Extensions for Developers
 - [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
+### Angular
+
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+- [Angular Snippets (Version 13)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+
+
 ### Makefile
 
 - [Makefile Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
@@ -33,14 +39,16 @@ Personnal selection of Extensions for Developers
 ### Code Quality
 
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [eslint-disable Snippets](https://marketplace.visualstudio.com/items?itemName=drKnoxy.eslint-disable-snippets)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Psalm](https://marketplace.visualstudio.com/items?itemName=getpsalm.psalm-vscode-plugin)
+- [Psalm Docker VS Code](https://marketplace.visualstudio.com/items?itemName=getpsalm.psalm-vscode-plugin)
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 
 ### Git
 
 - [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=teledemic.branch-warnings)
-- [Git Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -48,7 +56,7 @@ Personnal selection of Extensions for Developers
 ### HTML / CSS
 
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+- [HTMLHint](https://marketplace.visualstudio.com/items?itemName=HTMLHint.vscode-htmlhint)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
