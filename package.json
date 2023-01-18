@@ -2,7 +2,7 @@
   "name": "lougaou-vsc-pack",
   "displayName": "Lougaou Visual Studio Code Pack",
   "description": "Personnal Extensions for Developers",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Xavier R.",
   "icon": "logo.jpg",
   "repository": {
@@ -57,7 +57,6 @@
     "getpsalm.psalm-vscode-plugin",
     "helgardrichard.helium-icon-theme",
     "jmredfern.sort-selection",
-    "johnpapa.Angular2",
     "johnpapa.vscode-peacock",
     "junstyle.php-cs-fixer",
     "kamikillerto.vscode-colorize",

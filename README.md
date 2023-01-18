@@ -22,15 +22,14 @@ Personnal selection of Extensions for Developers
 - [PHP Stan](https://marketplace.visualstudio.com/items?itemName=swordev.phpstan)
 - [PHP Unit](https://marketplace.visualstudio.com/items?itemName=emallin.phpunit)
 - [PHPUnit Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.phpunit-snippets)
-- [Symfony code snippets And Twig Support & Yaml](https://marketplace.visualstudio.com/items?itemName=nadim-vscode.symfony-code-snippets)
+- ~~[Symfony code snippets And Twig Support & Yaml](https://marketplace.visualstudio.com/items?itemName=nadim-vscode.symfony-code-snippets)~~
 - [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ### Angular
 
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-- [Angular Snippets (Version 13)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-
+- ~~[Angular Snippets (Version 13)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)~~
 
 ### Makefile
 
